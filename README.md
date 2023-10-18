@@ -1,5 +1,5 @@
 <h3 align="center">
-    <a href="https://www.youtube.com/watch?v=Fow7iUaKrq4">
+    <a href="https://www.youtube.com/watch?v=Fow7iUaKrq4" target="_blank" rel="noopener noreferrer">
         kill dash nine, your process is mine.
     </a>
 </h3>
